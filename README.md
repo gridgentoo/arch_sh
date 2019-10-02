@@ -1,9 +1,9 @@
 # arch_sh
-Установка Arch Linux за 5 минут | Open Source
-https://www.youtube.com/watch?v=vjJplo3QoJE
+Установка Arch Linux за 5 минут | Open Source  
+https://www.youtube.com/watch?v=vjJplo3QoJE  
 
-Установка Archlinux 2019 за 15 минут
-https://www.youtube.com/watch?v=nvVF_qKDUeM
+Установка Archlinux 2019 за 15 минут  
+https://www.youtube.com/watch?v=nvVF_qKDUeM  
 
 ##############################################
 # ArchLinux Fast Install v1.6
