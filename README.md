@@ -5,6 +5,9 @@ https://www.youtube.com/watch?v=vjJplo3QoJE
 Установка Archlinux 2019 за 15 минут  
 https://www.youtube.com/watch?v=nvVF_qKDUeM  
 
+Ручная установка Arch Linux  
+https://www.youtube.com/watch?v=PemucgRrdPk  
+
 ##############################################
 # ArchLinux Fast Install v1.6
 ##############################################
@@ -68,6 +71,8 @@ Cостоит из 3 частей.
 # Контакты
 Наша группа по Arch Linux https://vk.com/arch4u
 
+Скрипт взят из репозитария  
+https://github.com/ordanax/arch2018  
 
 # История изменений
 
